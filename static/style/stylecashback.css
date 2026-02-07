@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+}
+
+/* Банер */
+
+.baner>a #Up {
+    width: 250px;
+}
+
+.baner {
+    width: 100%;
+    background-color: rgb(5, 13, 56);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.baner-botton>a #Up {
+    width: 250px;
+}
+
+.baner-botton {
+    width: 100%;
+    background-color: rgb(5, 13, 56);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+/* Main */
+
+.Cash {
+    display: flex;
+    gap: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(5, 13, 56);
+    align-items: center;
+}
+
+.Cash img {
+    width: 250px;
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.Cash>.text {
+    color: white;
+    display: block;
+}
