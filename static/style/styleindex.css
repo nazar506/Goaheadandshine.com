@@ -1,0 +1,139 @@
+body {
+    margin: 0;
+}
+
+/* Банер */
+
+.baner>a #Up {
+    width: 250px;
+}
+
+.baner {
+    width: 100%;
+    background-color: rgb(5, 13, 56);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* Main */
+
+.score {
+    display: flex;
+    gap: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(5, 13, 56);
+    align-items: center;
+}
+
+.score img {
+    width: 250px;
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.score>.text {
+    color: white;
+    display: block;
+}
+
+.score-piggy {
+    display: flex;
+    gap: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(5, 13, 56);
+    align-items: center;
+}
+
+.score-piggy img {
+    width: 250px;
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.score-piggy>.text {
+    color: white;
+    display: block;
+}
+
+.Cash {
+    display: flex;
+    gap: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(5, 13, 56);
+    align-items: center;
+}
+
+.Cash img {
+    width: 250px;
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.Cash>.text {
+    color: white;
+    display: block;
+}
+
+.ATMs {
+    display: flex;
+    gap: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(5, 13, 56);
+    align-items: center;
+}
+
+.ATMs>.text {
+    display: block;
+}
+
+.ATMs img {
+    width: 225px;
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.branches {
+    display: flex;
+    gap: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(5, 13, 56);
+    align-items: center;
+}
+
+.branches>.text {
+    display: block;
+}
+
+.branches img {
+    width: 225px;
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.other {
+    display: flex;
+    align-items: center;
+}
+
+.baner-botton>a #Up {
+    width: 250px;
+}
+
+.baner-botton {
+    width: 100%;
+    background-color: rgb(5, 13, 56);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
